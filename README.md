@@ -101,4 +101,29 @@ const developer = {
     status: "Always coding 🚀"
 };
 
+---
+
+# 🤝 Let's Connect
+
+📧 Email: dinacp2700@yahoo.com
+💼 LinkedIn: linkedin.com/in/segun-dina-emmanuel-237b4448
+
+---
+
+# 💡 Favorite Quote
+
+“Technology is best when it brings people together.”
+
+---
+
+# ⭐ Thanks for Visiting!
+
+If you like my work:
+
+⭐ Star my repositories
+🍴 Fork my projects
+🤝 Collaborate with me
+💬 Share ideas and feedback
+
+
 
