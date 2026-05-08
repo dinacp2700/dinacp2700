@@ -79,7 +79,7 @@ Modern personal portfolio website showcasing projects and technical skills.
 
 ---
 
-🎯 My Mission
+#🎯 My Mission
 
 To create impactful digital solutions that are:
 
