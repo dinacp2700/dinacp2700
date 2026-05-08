@@ -79,6 +79,18 @@ Modern personal portfolio website showcasing projects and technical skills.
 
 ---
 
+🎯 My Mission
+
+To create impactful digital solutions that are:
+
+Functional
+Scalable
+User-Friendly
+Secure
+Visually Appealing
+
+---
+
 # 📈 GitHub Journey
 
 ```javascript
