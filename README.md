@@ -102,7 +102,7 @@ Visually Appealing
 
 📧 Email: dinacp2700@yahoo.com
 
-💼 LinkedIn: linkedin.com/in/segun-dina-emmanuel-237b4448
+💼 LinkedIn: www.linkedin.com/in/segun-dina-emmanuel-237b4448
 
 ---
 
