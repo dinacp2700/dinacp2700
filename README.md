@@ -89,17 +89,6 @@ User-Friendly
 Secure
 Visually Appealing
 
----
-
-# 📈 GitHub Journey
-
-```javascript
-const developer = {
-    name: "Web Developer",
-    skills: ["Frontend", "Backend", "WordPress", "UI/UX"],
-    passion: "Building amazing web experiences",
-    status: "Always coding 🚀"
-};
 
 ---
 
@@ -117,6 +106,19 @@ const developer = {
 ---
 
 # ⭐ Thanks for Visiting!
+
+---
+
+# 📈 GitHub Journey
+
+```javascript
+const developer = {
+    name: "Web Developer",
+    skills: ["Frontend", "Backend", "WordPress", "UI/UX"],
+    passion: "Building amazing web experiences",
+    status: "Always coding 🚀"
+};
+
 
 If you like my work:
 
