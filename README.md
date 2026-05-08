@@ -92,6 +92,12 @@ Visually Appealing
 
 ---
 
+# 💡 Favorite Quote
+
+“Technology is best when it brings people together.”
+
+---
+
 # 🤝 Let's Connect
 
 📧 Email: dinacp2700@yahoo.com
@@ -105,16 +111,12 @@ Visually Appealing
 If you like my work:
 
 ⭐ Star my repositories
+
 🍴 Fork my projects
+
 🤝 Collaborate with me
+
 💬 Share ideas and feedback
-
----
-
-# 💡 Favorite Quote
-
-“Technology is best when it brings people together.”
-
 
 ---
 
