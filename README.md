@@ -65,17 +65,24 @@ I specialize in creating powerful websites, web applications, and digital experi
 
 # 📂 Featured Projects
 
-## 🎓 School Portal System
-A complete school management platform for student registration, payments, results, and administration.
+Here are some of the projects I have worked on across web development, education technology, business portals, and digital solutions.
 
-## 🛒 E-Commerce Website
-Online shopping platform with secure payment integration and inventory management.
+### 🌐 University & Educational Portals
+- 🎓 **ABUAD E-Portal**  
+  A centralized digital platform designed for Afe Babalola University students to manage their academic and administrative tasks online.
+  🔗 https://portal.abuad.edu.ng/
 
-## 🌐 WordPress Business Website
-Custom-designed responsive WordPress website optimized for speed and SEO.
+- 🖥️ **Venite University LMS**  
+  Learning Management System for online teaching and student engagement at Venite University.  
+  🔗 http://lms.veniteuniversity.edu.ng/
 
-## 📱 Portfolio Website
-Modern personal portfolio website showcasing projects and technical skills.
+- 🌍 **West Africa University Games (WUAG) Website**  
+  Sports and event platform for managing university games and activities.  
+  🔗 http://waugsports.org/
+
+- 🚀 **Innovate Ekiti Website**  
+  Technology and innovation-driven platform promoting digital transformation.  
+  🔗 https://www.innovateekiti.com/
 
 ---
 
