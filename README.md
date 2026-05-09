@@ -65,9 +65,6 @@ I specialize in creating powerful websites, web applications, and digital experi
 
 # 📂 Featured Projects
 
-Here are some of the projects I have worked on across web development, education technology, business portals, and digital solutions.
-
-### 🌐 University & Educational Portals
 - 🎓 **ABUAD E-Portal**  
   A centralized digital platform designed for Afe Babalola University students to manage their academic and administrative tasks online.
   🔗 https://portal.abuad.edu.ng/
